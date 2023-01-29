@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:math_expressions/math_expressions.dart';
 
-import 'buttons.dart';
-
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
